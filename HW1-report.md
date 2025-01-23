@@ -6,13 +6,13 @@ Due: January 26, 2025
 ## Git, GitHub
 
 *What is the URL of the GitHub repo that you created in your personal account?*
-*https://github.com/lsott001/HW1*
+https://github.com/lsott001/HW1
    
 *What is pull vs clone in GitHub?*
-*When you pull you already have access to the repository and is done after you clone to update the code. *
+When you pull you already have access to the repository and is done after you clone to update the code. 
    
 *You have committed a change on your local machine/remote. However, you want to undo the changes committed. How would you do that?*
-*With the git revert command.*
+With the git revert command.
 
 ## Markdown
 
