@@ -45,6 +45,8 @@ The <strong>Hammer Throw</strong> is my favorite Olympic sport, blending <em>pow
 
 **
 ![Error](tableau.png)
+
+<h3>Working on getting access, awaiting response to email. MTF</h3>**
 ## Google Colab
 
 *What is the URL of your Google Colab notebook?*
