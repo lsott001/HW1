@@ -57,24 +57,34 @@ https://colab.research.google.com/drive/1y4exKV-WzsPbh5p2q3wfFobXyV920d4l?usp=sh
 ![First penguin](firstpenguin.png)
 
 *Describe what the figure is showing.*
-
+<strong>It depicts a scatterplot of the length of penguing bills in mm</strong>
 *Insert the second penguin chart here*
 
 ![second penguin](secondpenguin.png)
 
-
 *Describe what the figure is showing.*
-
+<strong>It depicts the weight difference between male and female penguins. It also seperates them into their respective type of penguin. </strong>
 *What happened when you removed the outer parentheses from the code? Why?*
 
 ## Observable and Vega-Lite
 
 *What happens when you replace `markCircle()` with `markSquare()`?*
+The data represented by circles turns into squares.
 
 *What happens when you replace `markCircle()` with `markPoint()`?*
+The data represented by circles turns into hollow circles.
 
 *What change do you need to make to swap the x and y axes on the scatterplot?*
-
+This:
+{ 
+vl.x().fieldQ('displ').scale({zero: false}).title("Engine displacement (L)"), 
+vl.y().fieldQ('hwy').scale({zero: false}).title("Highway fuel economy (mpg)"),
+}
+To this:
+{
+vl.y().fieldQ('displ').scale({zero: false}).title("Engine displacement (L)"), 
+vl.x().fieldQ('hwy').scale({zero: false}).title("Highway fuel economy (mpg)"),
+}
 *Insert the bar chart image here*
 
 *Why do you think this chart is the result of this code change?*
