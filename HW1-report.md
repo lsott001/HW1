@@ -35,7 +35,7 @@ The <strong>Hammer Throw</strong> is my favorite Olympic sport, blending <em>pow
 
 *Insert a image of your favorite Olympics sport/game, sized appropriately*
 
-[!(https://cdn.britannica.com/85/226485-050-347D6AB8/Krisztian-Pars-Hungary-competes-Mens-Hammer-Throw-2016-Olympics-Final-Rio-de-Janeiro-Brazil.jpg)]
+[![Hammer Thrower](Krisztian-Pars-Hungary-competes-Mens-Hammer-Throw-2016-Olympics-Final-Rio-de-Janeiro-Brazil.webp)]
 
 ## Tableau
 
