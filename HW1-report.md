@@ -42,18 +42,26 @@ The <strong>Hammer Throw</strong> is my favorite Olympic sport, blending <em>pow
 *Insert the image of your horizontal bar chart here. Reminder, this should show countries that won the least number of medals only (excluding ZERO) in Paris2024 Summer Olynpics by continent (one country from each continent is ok).*
 
 <h2>Error creating tableau account. </h2>
+![Tableau Error](Screenshot 2025-01-26 203253.png)
 
 ## Google Colab
 
 *What is the URL of your Google Colab notebook?*
 
+https://colab.research.google.com/drive/1y4exKV-WzsPbh5p2q3wfFobXyV920d4l?usp=sharing
+
 ## Python/Seaborn
 
 *Insert the first penguin chart here*
 
+![First penguin]()
+
 *Describe what the figure is showing.*
 
 *Insert the second penguin chart here*
+
+![second penguin]()
+
 
 *Describe what the figure is showing.*
 
