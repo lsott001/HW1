@@ -27,11 +27,15 @@ With the git revert command.
 
 *Write a single paragraph that demonstrates the use of italics, bold, bold italics, code, and includes a link. The paragraph must explain your favorite Olympic sport/game, the country that won the most number of olympic GOLD medals (Summer) in your favorite sport in 2020 (Japan) and 2024 (France). You are free to include more information.*
 
-
+The <strong>Hammer Throw</strong> is my favorite Olympic sport, blending <em>power, technique, and precision</em> in an incredible display of athleticism. <strong>Poland</strong> excelled in the 2020 Tokyo Olympics, with <strong><em>Wojciech Nowicki</em></strong> winning gold in the men’s event and <strong><em>Anita Włodarczyk claiming</strong></em> her third consecutive gold in the women’s. In the 2024 Paris Olympics, <strong>Canada</strong> made history with <strong><em>Ethan Katzberg</strong></em> winning gold in the men’s event and <strong><em>Camryn Rogers</strong></em> in the women’s. 
 
 *Create a level 3 heading*
 
+<h3>Hammer Throw</h3>
+
 *Insert a image of your favorite Olympics sport/game, sized appropriately*
+
+[!(https://cdn.britannica.com/85/226485-050-347D6AB8/Krisztian-Pars-Hungary-competes-Mens-Hammer-Throw-2016-Olympics-Final-Rio-de-Janeiro-Brazil.jpg)]
 
 ## Tableau
 
