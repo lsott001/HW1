@@ -54,13 +54,13 @@ https://colab.research.google.com/drive/1y4exKV-WzsPbh5p2q3wfFobXyV920d4l?usp=sh
 
 *Insert the first penguin chart here*
 
-![First penguin]()
+![First penguin](firstpenguin.png)
 
 *Describe what the figure is showing.*
 
 *Insert the second penguin chart here*
 
-![second penguin]()
+![second penguin](secondpenguin.png)
 
 
 *Describe what the figure is showing.*
