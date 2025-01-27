@@ -86,12 +86,12 @@ vl.y().fieldQ('displ').scale({zero: false}).title("Engine displacement (L)"),
 vl.x().fieldQ('hwy').scale({zero: false}).title("Highway fuel economy (mpg)"),
 }
 *Insert the bar chart image here*
-
+![First penguin](horbarchart.png)
 *Why do you think this chart is the result of this code change?*
-
+By removing the y-axis encoding for Origin, the chart no longer differentiates data based on the Origin categories along the y-axis. 
 ## References
 
 *Every report must list the references (including the URL) that you consulted while completing the assignment. Replace the items below with the references you consulted*
 
-* Reference 1, <https://www.example.com>
-* Reference 2, <https://www.example.com/reallyreallyreally-extra-long-URI/>
+* Reference 1, [<https://www.example.com](https://observablehq.com/@observablehq/vega-lite)>](https://observablehq.com/@observablehq/vega-lite)
+* Reference 2, [<https://www.example.com/reallyreallyreally-extra-long-URI/>](https://observablehq.com/@oducs-vis/vega-lite-annotations-examples)
